@@ -6,6 +6,7 @@ const P = styled.p`
   font-size: 1.6em;
   margin: 50px 0 0 0;
   text-align: center;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Open Sans,Helvetica Neue,sans-serif;
 `;
 
 export default P;

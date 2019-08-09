@@ -51,17 +51,16 @@ Basic configuration can be done via the ```config.js``` file in the root of the 
 ```javascript
 export default {
   title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  author: 'David Thomas', // Required
+  description: 'Web Developer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald'
+    github: 'https://github.com/RepublicOfDavid',
+    twitter: 'https://twitter.com/RepublicOfDavid',
+    linkedin: 'https://www.linkedin.com/in/david-thomas-987abba5'
   }
 };
 ```
