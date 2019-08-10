@@ -4,6 +4,7 @@ import styledNormalize from "styled-normalize";
 const GlobalStyle = createGlobalStyle`
   ${styledNormalize}
   
+  @import url('https://fonts.googleapis.com/css?family=Arvo&display=swap');
   @import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
   
   *,
